@@ -88,6 +88,18 @@ const Navbar = () => {
                     >
                         <FaLinkedin size={24} />
                     </a>
+                    <a 
+                        href="https://wa.me/918958654676?text=Hi%20Sandhya%2C%20I%20am%20interested%20in%20hiring%20you."
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block text-white px-4 rounded-full text-lg font-bold transition duration-300 transform hover:scale-105"
+                        style={{
+                            background: "linear-gradient(90deg, #8245ec, #a855f7)",
+                            boxShadow: "0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec",
+                        }}
+                    >
+                        Hire me
+                    </a>
                 </div>
 
                 {/* Mobile Menu Icon */}

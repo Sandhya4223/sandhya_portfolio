@@ -1,7 +1,7 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import Tilt from "react-parallax-tilt";
-import profileImage from "../../assets/profile_image.png";
+import profileImage from "../../assets/sandhya_profile.jpeg";
 
 const About = () => {
     return (
@@ -25,10 +25,9 @@ const About = () => {
                     <span className="text-white">I am a </span>
                     <ReactTypingEffect
                         text={[
-                            "Fullstack Developer",
+                            "Full Stack Developer",
                             "Frontend Developer",
                             "Backend Developer",
-                            "Coder",
                         ]}
                         speed={100}
                         eraseSpeed={50}
